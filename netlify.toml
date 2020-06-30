@@ -7,6 +7,6 @@ package = "./plugins/keep-data-cache"
 
 [[redirects]]
 	from = "/"
-	to = "/netlify/"
+	to = "/ssg/"
 	status = 302
 	force = true
